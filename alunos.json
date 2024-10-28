@@ -1,5 +1,4 @@
 {
-    "turmas": {
       "6º A": [
         {"Nome": "Anna Luisa Paiva da Silva", "RM": 4068, "Dieta Especial": "NÃO"},
         {"Nome": "Beatriz dos Santos Sousa", "RM": 4125, "Dieta Especial": "NÃO"},
@@ -481,5 +480,4 @@
         {"Nome": "Rafaella Ribeiro Reina", "RM": 4037, "Dieta Especial": "NÃO"},
         {"Nome": "Victor Hugo da Silva Simeão", "RM": 3803, "Dieta Especial": "NÃO"}
       ]
-    }
 }
